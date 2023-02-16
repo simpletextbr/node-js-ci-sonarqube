@@ -6,7 +6,7 @@ test("test function sum to calc a simple sum", () => {
 })
 
 test("test function sub to calc a simple sub", () => {
-  expect(sub(25, 2)).toBe(23);
+  expect(sub(33, 10)).toBe(23);
 })
 
 test("test function times to calc a simple times", () => {
